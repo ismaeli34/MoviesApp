@@ -1,0 +1,32 @@
+[
+  {
+    "movieId": 1,
+    "title": "Avengers: Infinity War",
+    "director": "Russo Brothers",
+    "studio": "Marvel Studios",
+    "movieCast": ["RDJ", "Chris Evans", "Scarlett Johansson"],
+    "releaseYear": 2018,
+    "poster": "default.png",
+    "posterUrl": "url"
+  },
+  {
+    "movieId": 2,
+    "title": "The Avengers",
+    "director": "Joss Whedon",
+    "studio": "Marvel Studios",
+    "movieCast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+    "releaseYear": 2012,
+    "poster": "default.png",
+    "posterUrl": "url"
+  },
+  {
+    "movieId": 3,
+    "title": "Avengers: Endgame",
+    "director": "Russo Brothers",
+    "studio": "Marvel Studios",
+    "movieCast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+    "releaseYear": 2019,
+    "poster": "default.png",
+    "posterUrl": "url"
+  }
+]
