@@ -12,6 +12,4 @@ public interface FileService {
 
     InputStream getResourceFile(String path, String filename) throws FileNotFoundException;
 
-
-
 }
