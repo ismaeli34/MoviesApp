@@ -1,4 +1,4 @@
-# MoviesApp
+#  Movie Management Application (Angular/Java)
 
 ## Screenshots
 
