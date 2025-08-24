@@ -10,6 +10,8 @@
 <img width="1440" height="763" alt="Screenshot 2025-08-24 at 20 41 13" src="https://github.com/user-attachments/assets/8dbb4e09-4319-42fb-8199-325378efee8d" />
 <img width="1440" height="766" alt="Screenshot 2025-08-24 at 20 43 31" src="https://github.com/user-attachments/assets/29ab80b4-69fa-4049-915d-f7f71033aae1" />
 <img width="1438" height="766" alt="Screenshot 2025-08-24 at 20 43 52" src="https://github.com/user-attachments/assets/87eee3d3-e5bc-44f0-b5cc-96c0fd746bbe" />
+<img width="1432" height="761" alt="Screenshot 2025-08-24 at 20 52 17" src="https://github.com/user-attachments/assets/baaf927d-6538-483c-be5c-92cf1a91c949" />
+
 
 Project Title: Movie Management Application
 
